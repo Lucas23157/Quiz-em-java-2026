@@ -7,7 +7,7 @@ Projeto Integrador N2 de Programação Orientada a Objetos.
 
 ## Integrantes
 * Bruno Salvador Dias
-* Paulo Lucas
+* Paulo Lucas Garçoni Araujo
 
 ## Tecnologias e Configurações
 * **Linguagem:** Java 17+
